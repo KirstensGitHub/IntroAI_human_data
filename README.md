@@ -14,4 +14,4 @@ This dataset is part of ongoing research at the intersection of AI, social cogni
 # Methods
 The data in this repository constitutes the highest quality data collected from online participants (via Prolific.com,  Cognition.run), filtered through a combination of participant sign-up requirements and post-collection quantitative analysis and data filtering.  Additional details about data curation and filtering methods will be made available in pending publications. For additional details, please contact kz0108@princeton.edu.
 
-### Data collection, curation, and analysis was generously funded by the Data Driven Social Science Initiative at Princeton University. 
+### Data collection, curation, and analysis was generously funded by the <a href="https://ddss.princeton.edu">Data Driven Social Science Initiative</a> at Princeton University. 
