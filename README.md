@@ -1,6 +1,6 @@
 # Human descriptions of AI attenion
 
-Naturalistic human descriptions of the attention and behavior of an image captioning neural network (specially trained version).
+Naturalistic human descriptions of the attention and behavior of an image-captioning neural network (specially trained version).
 
 Video examples below show what data collection trials looked like.
 
