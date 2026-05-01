@@ -8,7 +8,7 @@ Video examples below show what data collection trials looked like.
 
 ### Trial 2: Participant gives a negative rating
 
-# Project overview
+# Overview
 This dataset is part of ongoing research at the intersection of AI, social cognition, and human-AI interaction. This work is being conducted at the Princeton Neuroscience Institute, spearheaded by Kirsten Ziman, along with Jack Thompson and Lily Weaver. 
 
 # Methods
