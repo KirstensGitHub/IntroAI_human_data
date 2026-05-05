@@ -5,7 +5,7 @@ This is a dataset of naturalistic responses from human participants describing t
 Videos below show exemplify the data collection procedure. Human participants first watched brief videos showing where the network deployed its attention as it generated text about a picture. Then, the participants gave feedback about what they saw. 
 
 ### Trial 1: Participant gives a positive rating
-<b>Time 0 - 10s:</b> Visualization of the neural network's attention (white) and its text output (red) overlaid onto the image it is describing<br/>
+<b>Time 0 - 10s:</b> Visualization of the neural network's attention (white) and its text output (red), overlaid onto the image it is describing<br/>
 <b>Time 10 - end:</b> Participant response period with the questions participants answered and example responses <br/>
 
 https://github.com/user-attachments/assets/83544f71-17b6-41f7-b1f2-af5b06b4a952
