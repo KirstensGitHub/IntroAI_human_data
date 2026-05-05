@@ -1,10 +1,14 @@
+
+https://github.com/user-attachments/assets/eb5bc77a-d2c3-4742-a9d9-aff8636c2890
 # Human descriptions of AI attenion
 
-Naturalistic human descriptions of the attention and behavior of an image-captioning neural network (specially trained version).
+Naturalistic human descriptions of the attention and behavior of an image-captioning neural network (Xu et al., 2015; specially trained version).
 
 Video examples below show what data collection trials looked like.
 
 ### Trial 1: Participant gives a positive rating
+
+https://github.com/user-attachments/assets/83544f71-17b6-41f7-b1f2-af5b06b4a952
 
 ### Trial 2: Participant gives a negative rating
 
