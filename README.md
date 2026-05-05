@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/83544f71-17b6-41f7-b1f2-af5b06b4a952
 
 ### Trial 2: Participant gives a negative rating
 
-# Methods
+# Curation
 The data in this repository constitutes the highest quality data collected from online participants (via Prolific.com,  Cognition.run), filtered through a combination of participant sign-up requirements and post-collection quantitative analysis and data filtering.  Details about data curation and filtering methods will be available in upcoming publications. For more information, contact kz0108@princeton.edu.
 
 # Background
