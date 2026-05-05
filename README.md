@@ -6,7 +6,7 @@ The video below exemplifies the data collection procedure. Human participants fi
 
 # Example video 
 
- In this example, the participant gives the neural network a positive review
+This example video depicts one trial from the data collection experiment. In this example, the participant gives the neural network a positive review
 
 <b>Time 0 - 10s:</b> Visualization of the neural network's attention (white) and its text output (red), overlaid onto the image it is describing<br/>
 <b>Time 10 - end:</b> Participant response period with the questions participants answered and example responses <br/>
