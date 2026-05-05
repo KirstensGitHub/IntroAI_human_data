@@ -4,7 +4,10 @@ This is a dataset of naturalistic responses from human participants describing t
 
 The video below exemplifies the data collection procedure. Human participants first watched brief videos showing where the network deployed its attention as it generated text about a picture. Then, the participants gave feedback about what they saw. 
 
-### Example trial where participant gives a positive review
+### Example trial 
+
+ In this example, the participant gives the neural network a positive review
+
 <b>Time 0 - 10s:</b> Visualization of the neural network's attention (white) and its text output (red), overlaid onto the image it is describing<br/>
 <b>Time 10 - end:</b> Participant response period with the questions participants answered and example responses <br/>
 
