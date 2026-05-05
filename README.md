@@ -1,6 +1,6 @@
 # Human descriptions of AI attenion
 
-This is a dataset of naturalistic descriptions from human participants describing the attention and behavior of a neural network (Xu et al., 2015; specially trained version). The descriptions have been filtered to include the highest quality data, and have been converted to first-person, simulating an introspective report from the perspective of a neural network.
+This is a dataset of naturalistic descriptions from human participants describing the attention and behavior of a neural network (Xu et al., 2015; specially trained version). The descriptions have been filtered to include only the highest quality data, and have been converted to first-person, simulating an introspective report from the perspective of a neural network.
 
 Human participants first watched brief videos showing where the network deployed its attention as it generated text about the picture. Then, the participants feedback about what they saw. Video examples below show what data collection trials looked like. The network's attention is overlaid in white and its text is overlaid in red. 
 
