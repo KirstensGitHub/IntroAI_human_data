@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/eb5bc77a-d2c3-4742-a9d9-aff8636c2890
 # Human descriptions of AI attenion
 
 Naturalistic human descriptions of the attention and behavior of an image-captioning neural network (Xu et al., 2015; specially trained version).
