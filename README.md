@@ -2,7 +2,7 @@
 
 This is a dataset of naturalistic responses from human participants describing the attention and behavior of a neural network (Xu et al., 2015; specially trained version). The descriptions have been filtered to include only the highest quality data, and have been converted to the first-person perspective, simulating an introspective report from the perspective of the neural network.
 
-Video examples below show what the data collection procedure was like. Human participants first watched brief videos showing where the network deployed its attention as it generated text about a picture. Then, the participants gave feedback about what they saw. 
+Videos below show exemplify the data collection procedure. Human participants first watched brief videos showing where the network deployed its attention as it generated text about a picture. Then, the participants gave feedback about what they saw. 
 
 ### Trial 1: Participant gives a positive rating
 <b>Time 0 - 10s:</b> Visualization of the neural network's attention (white) and its text output (red) overlaid onto the image it is describing<br/>
